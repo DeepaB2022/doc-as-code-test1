@@ -10,5 +10,5 @@ Creating a **test repository** for _doc as code_ classes
 - list item 2
 - list item 3
 
-To goto google search click (here0[https://www.google.com/]
+To goto google search click (here)[https://www.google.com/]
 
