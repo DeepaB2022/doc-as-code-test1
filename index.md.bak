@@ -1,5 +1,5 @@
 ---
-name: Deepa
+Name: Deepa
 class: Doc-as-code
 layouts: templates
 ---
