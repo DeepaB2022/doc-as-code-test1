@@ -12,6 +12,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - list item 3
 
 To goto google search click [here](https://www.google.com/)
-
-trying to clone the new text from desktop. See if this line is commited
-
