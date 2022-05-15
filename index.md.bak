@@ -1,7 +1,7 @@
 ---
 name: Deepa
 class: Doc-as-code
-layouts: templates
+_layouts: templates
 ---
 
 # doc-as-code-test1
