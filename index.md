@@ -10,7 +10,7 @@ Hi, I am {{page.Name}}. I am in the {{page.class}} training classes.
 I read a book by {{site.author}}
 
 {% for item in site.data.deepa %} 
--{{item.year}},{{item.name}} 
+- {{item.year}},{{item.name}} 
 {% endfor %}
 
 Creating a **test repository** for _doc as code_ classes
